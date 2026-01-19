@@ -27,6 +27,7 @@ Análise Exploratória de Dados (EDA)
 ├── cancelamentos.csv    # Base de dados
 └── README.md            # Documentação do projeto
 🔍 Etapas da Análise
+
 1️⃣ Abertura e Visualização da Base
 Leitura do arquivo CSV
 Remoção de colunas irrelevantes (ex: CustomerID)
