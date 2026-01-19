@@ -1,0 +1,20 @@
+# Ambientes Virtuais (Pasta onde ficam instaladas as bibliotecas)
+venv/
+.venv/
+env/
+bin/
+obj/
+
+# Arquivos temporários do Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Arquivos de sistema e VS Code
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Bases de dados pesadas (opcional)
+# Se o seu arquivo .csv for maior que 100MB, descomente a linha abaixo:
+# cancelamentos.csv
