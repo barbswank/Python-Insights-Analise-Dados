@@ -31,20 +31,25 @@ Análise Exploratória de Dados (EDA)
 Leitura do arquivo CSV
 Remoção de colunas irrelevantes (ex: CustomerID)
 Visualização inicial da base
+
 2️⃣ Análise da Estrutura dos Dados
 Tipos de dados
 Valores nulos
 Tamanho da base e consumo de memória
+
 3️⃣ Tratamento de Dados
 Remoção de registros com valores nulos
 Garantia de consistência para análise
+
 4️⃣ Análise Inicial do Cancelamento
 Contagem de clientes que cancelaram vs. ativos
 Cálculo da porcentagem de churn
+
 5️⃣ Análise Detalhada (EDA)
 Análise do impacto de cada variável no cancelamento
 Criação de histogramas comparando clientes que cancelaram e não cancelaram
 Identificação de padrões comportamentais
+
 📈 Principais Insights (exemplos)
 Clientes com maior número de ligações ao call center apresentam maior taxa de cancelamento
 Dias em atraso influenciam diretamente o churn
